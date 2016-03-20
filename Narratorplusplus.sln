@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Narratorplusplus", "Narratorplusplus\Narratorplusplus.csproj", "{5267ABBD-1F9B-4EC9-A619-E44A3F972177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProj", "TestProj\TestProj.csproj", "{4618FD29-9077-4190-BF9C-E4C0C0D440FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleProj", "ConsoleTextProj\TestConsoleProj.csproj", "{A7D653C1-343D-440F-9EFE-E2C0920688E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5267ABBD-1F9B-4EC9-A619-E44A3F972177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5267ABBD-1F9B-4EC9-A619-E44A3F972177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5267ABBD-1F9B-4EC9-A619-E44A3F972177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5267ABBD-1F9B-4EC9-A619-E44A3F972177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4618FD29-9077-4190-BF9C-E4C0C0D440FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4618FD29-9077-4190-BF9C-E4C0C0D440FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4618FD29-9077-4190-BF9C-E4C0C0D440FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4618FD29-9077-4190-BF9C-E4C0C0D440FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D653C1-343D-440F-9EFE-E2C0920688E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D653C1-343D-440F-9EFE-E2C0920688E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D653C1-343D-440F-9EFE-E2C0920688E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D653C1-343D-440F-9EFE-E2C0920688E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
